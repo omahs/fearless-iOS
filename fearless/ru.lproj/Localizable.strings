@@ -785,9 +785,9 @@
 "сurrencies.stub.text" = "Токены";
 "nfts.stub" = "NFTs";
 "network.issue.unavailable" = "Сеть недоступна, вы можете подождать или задать вопрос сообществу";
-"network.issue.notofication" = "Уведомления";
+"network.issue.notification" = "Уведомления";
 "network.issue.stub" = "Проблемы с сетью";
-"network.issue.network.unavailible" = "Сеть не доступа";
+"network.issue.network.unavailable" = "Сеть не доступа";
 "network.issue.node.unavailable" = "Нода не доступна";
 "pool.common" = "пул";
 "staking.pool.sort.pool.members" = "Количество участников";
